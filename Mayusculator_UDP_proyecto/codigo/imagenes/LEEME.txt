@@ -1,8 +1,0 @@
-Guardar las seis capturas reales en PNG con estos nombres exactos:
-01_ip_debian.png
-02_conectividad.png
-03_servidor_esperando.png
-04_puerto_udp.png
-05_cliente_ubuntu.png
-06_servidor_recibiendo.png
-El README y main.tex emplean las mismas rutas.

@@ -90,8 +90,8 @@ La memoria definitiva se podrá consultar en la carpeta `documentacion/` una vez
 
 ## Autores
 
-- Nombre y apellidos del alumno 1
-- Nombre y apellidos del alumno 2
+- Abraham García Sánchez
+- Pedro Manuel Herrera García
 
 ---
 Proyecto académico - Sistemas de Redes e Internet (SRI)

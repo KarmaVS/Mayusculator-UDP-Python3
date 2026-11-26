@@ -90,8 +90,8 @@ La memoria definitiva se podrá consultar en la carpeta `documentacion/` una vez
 
 ## Autores
 
-- Abraham García Sánchez
-- Pedro Manuel Herrera García
+- KarmaVS
+- pedro-hg07
 
 ---
 Proyecto académico - Sistemas de Redes e Internet (SRI)

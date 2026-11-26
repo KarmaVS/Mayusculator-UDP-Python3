@@ -1,1 +1,0 @@
-Guardar aquí el PDF definitivo tras compilar main.tex con las capturas y completar autores, resultados y URL real. Si el profesor pide una única memoria TCP+UDP, reunir las dos versiones en esa entrega.
